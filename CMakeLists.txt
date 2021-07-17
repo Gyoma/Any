@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 
 project(Any VERSION 1.0.0 LANGUAGES CXX)
 
-set(CMAKE_CXX_STANDART 14)
+set(CMAKE_CXX_STANDART 11)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
